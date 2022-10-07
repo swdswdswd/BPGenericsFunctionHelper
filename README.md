@@ -18,7 +18,7 @@ Network Replicated: No
 
 Supported Development Platforms: Win64, Android
 
-Supported Target Build Platforms: 4.20+
+Supported Target Build Platforms: 4.26  5.0
 
 Documentation: https://github.com/swdswdswd/BPGenericsFunctionHelper
 
